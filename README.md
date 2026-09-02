@@ -8,9 +8,9 @@ Modpack del server **EscoriasMC** — Minecraft **1.21.1** + **Fabric**.
 
 ## Descargar
 
-**Opcion A (zip clasico):** **[Descargar EscoriasMC-modpack-v1.0.0.zip](https://github.com/Bocchi1204/escoriasmc-modpack/releases/download/v1.0.0/EscoriasMC-modpack-v1.0.0.zip)** (131 MB)
+**Opcion A (zip clasico):** **[Descargar EscoriasMC-modpack-v1.0.1.zip](https://github.com/Bocchi1204/escoriasmc-modpack/releases/download/v1.0.1/EscoriasMC-modpack-v1.0.1.zip)** (147 MB)
 
-**Opcion B (Modrinth App / Prism Launcher):** **[Descargar EscoriasMC-modpack-v1.0.0.mrpack](https://github.com/Bocchi1204/escoriasmc-modpack/releases/download/v1.0.0/EscoriasMC-modpack-v1.0.0.mrpack)** (131 MB — trae los 65 mods adentro)
+**Opcion B (Modrinth App / Prism Launcher):** **[Descargar EscoriasMC-modpack-v1.0.1.mrpack](https://github.com/Bocchi1204/escoriasmc-modpack/releases/download/v1.0.1/EscoriasMC-modpack-v1.0.1.mrpack)** (147 MB — trae los 69 mods adentro)
 
 ### Si usas la App de Modrinth (o Prism)
 1. Baja el archivo `.mrpack`
@@ -46,9 +46,9 @@ Modpack del server **EscoriasMC** — Minecraft **1.21.1** + **Fabric**.
 
 ---
 
-## Que trae el pack (65 mods)
+## Que trae el pack (69 mods)
 
-**Mundo y contenido:** Aether, Biomes O' Plenty, Farmers Delight, Naturalist, Friends & Foes, Creeper Overhaul, Advanced Netherite, Sophisticated Backpacks, Waystones, Artifacts, Carry On, Rechiseled, Easy Magic, Elytra Slot, Double Doors, Right Click Harvest, Falling Tree, Leaves Be Gone, Nether Portal Fix, Smarter Farmers, Spawn Animations, Starter Kit
+**Mundo y contenido:** Aether, Biomes O' Plenty, Farmers Delight, Supplementaries, Supplementaries Squared, Handcrafted, Naturalist, Friends & Foes, Creeper Overhaul, Advanced Netherite, Sophisticated Backpacks, Waystones, Artifacts, Carry On, Rechiseled, Easy Magic, Elytra Slot, Double Doors, Right Click Harvest (+ compat con Supplementaries), Falling Tree, Leaves Be Gone, Nether Portal Fix, Smarter Farmers, Spawn Animations, Starter Kit
 
 **Calidad de vida:** JEI, AppleSkin, Xaero's Minimap, Xaero's World Map, Ping Wheel, Clumps, Better Ping Display, Just Zoom, Skin Layers 3D, Durability Tooltip, Overflowing Bars, Enhanced Attack Indicator, Simple Discord RPC, etc.
 
@@ -64,6 +64,15 @@ Modpack del server **EscoriasMC** — Minecraft **1.21.1** + **Fabric**.
 - **No borres mods**: el server espera que todos jueguen con el mismo pack.
 - Problemas al abrir? Revisa que el perfil sea **Fabric 1.21.1** con loader **0.19.5**.
 - Requisitos: **Java 21** recomendado para el server; los clientes usan el Java del launcher.
+
+---
+
+## Changelog
+
+**v1.0.1**
+- Farmers Delight **arreglado**: el jar de v1.0.0 era la build de NeoForge y no cargaba en Fabric. Ahora usa **Farmers Delight Refabricated 3.3.6**.
+- Mods nuevos: **Supplementaries 3.9.6**, **Supplementaries Squared**, **Handcrafted** y el compat de **Right Click Harvest + Supplementaries**.
+- Si ya tenias el pack v1.0.0, **vuelve a descargar v1.0.1**: el server ya esta corriendo con estos mods.
 
 ---
 
