@@ -12,10 +12,18 @@ Modpack del server **EscoriasMC** — Minecraft **1.21.1** + **Fabric**.
 
 **Opcion B (Modrinth App / Prism Launcher):** **[Descargar EscoriasMC-modpack-v1.0.3.mrpack](https://github.com/Bocchi1204/escoriasmc-modpack/releases/download/v1.0.3/EscoriasMC-modpack-v1.0.3.mrpack)** (148 MB — trae los 70 mods adentro)
 
+**Opcion C (CurseForge App):** **[Descargar EscoriasMC-modpack-v1.0.3-curseforge.zip](https://github.com/Bocchi1204/escoriasmc-modpack/releases/download/v1.0.3/EscoriasMC-modpack-v1.0.3-curseforge.zip)** (148 MB — importar en CurseForge: Create Custom Profile → Import)
+
 ### Si usas la App de Modrinth (o Prism)
 1. Baja el archivo `.mrpack`
 2. Abrelo con la App de Modrinth (doble clic) o en Prism: Add Instance → Import → selecciona el archivo
 3. La app crea la instancia sola: Fabric, mods, configs y shaders — todo adentro del archivo
+4. Entra a Multiplayer → `escoriasmc.duckdns.org`
+
+### Si usas la App de CurseForge (Opcion C)
+1. Baja el `.zip` de CurseForge
+2. En la app: **Create Custom Profile → Import** → selecciona el zip
+3. Espera a que importe (los 70 mods van adentro del zip, no descarga nada extra)
 4. Entra a Multiplayer → `escoriasmc.duckdns.org`
 
 ---
